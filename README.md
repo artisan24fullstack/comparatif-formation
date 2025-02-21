@@ -1,5 +1,5 @@
 # Objectifs principaux
-- Le Business Analyst se positionne comme l'interface entre l'entreprise et les technologies de l'information et de la communication (TIC), analysant les besoins métiers4. 
+- Le Business Analyst se positionne comme l'interface entre l'entreprise et les technologies de l'information et de la communication (TIC), analysant les besoins métiers. 
 - Le Data Analyst, quant à lui, se concentre sur la récolte, la structuration et l'analyse des données.
 
 
